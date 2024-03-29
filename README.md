@@ -1,16 +1,7 @@
-# meu_cartao_pessoal
+![image](https://github.com/TitanffalzZ/meu_cartao_pessoal/assets/161647228/1d369ad7-ff9e-4181-a19c-0f6859b7e842)# meu_cartao_pessoal
 
 Código simples e público de cartão pessoal utilizando flutter.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/TitanffalzZ/meu_cartao_pessoal/assets/161647228/13348ae7-1027-4b59-977b-73a90ed60342)
