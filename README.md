@@ -1,6 +1,6 @@
 # meu_cartao_pessoal
 
-A new Flutter project.
+Código simples e público de cartão pessoal utilizando flutter.
 
 ## Getting Started
 
